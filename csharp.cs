@@ -7,8 +7,9 @@ namespace csharp
 		static void Main()
 		{
 			Console.WriteLine("Hello C#");
-			Console.ReadLine("Hello C#");
+			Console.ReadLine();
 			
+			Console.WriteLine("testing");
 		}
 	}
 }
